@@ -21,7 +21,7 @@
  You can install foofactors like so:
 
  ``` r
- devtools::install_github("jennybc/foofactors")
+ devtools::install_github("roycezhou/foofactors")
  ```
 
  ## Quick demo
